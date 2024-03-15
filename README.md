@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @codewin1
 - 👀 I’m interested in ...Backend technologies and opensource
+- 🔭 Linux tinkerer...
 - 🌱 I’m currently learning ...golang ,next.js and other backend
 - 💞️ I’m looking to collaborate on ...opensource and any projects that may help me grow in my journey!
 - 📫 How to reach me ...https://www.linkedin.com/in/murimiedwin/
