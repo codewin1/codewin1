@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @codewin1
-- 👀 I’m interested in ...Backend technologies and opensource projects
-- 🔭 Linux ..
-- 🌱 I’m currently learning golang ,next.js technologies
-- 💞️ I’m looking to collaborate on opensource and any projects that may help me grow in my journey!
-- 📫 How to reach me ...https://www.linkedin.com/in/murimiedwin/
-
 <!-- START -->
 
 <!-- Profile -->
@@ -14,7 +7,11 @@
       <b>
         Hello There
       <br>
-        I'm Edwin, a Student; I like cats and stars, toxically a linux fan.
+        I'm Edwin, codewin1 , a Student; I like cats and stars, toxically a linux fan.
+        <br>
+        I’m currently learning golang ,next.js technologies and also looking to collaborate on opensource  projects.
+        <br>
+       <b> My LinkedIn </b>:: https://www.linkedin.com/in/murimiedwin/
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=I+like+it+simple+but+I'm+a+really+complicated+person.">
