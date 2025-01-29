@@ -7,9 +7,9 @@
       <b>
         Hello There
       <br>
-        I'm Edwin, codewin1 , a Student; I like cats and stars, toxically a linux fan.
+        I'm Edwin and/or codewin1 , a Student and a Devops practitioner; I like alot all just depends on what topic you bring up 😂
         <br>
-        I’m currently learning golang ,next.js technologies and also looking to collaborate on opensource  projects.
+        I’m currently learning golang and also looking to collaborate on opensource  projects.
         <br>
        <b> My LinkedIn </b>:: https://www.linkedin.com/in/murimiedwin/
       </b>
@@ -25,13 +25,13 @@
 
 <!-- contribution snake -->
 <p align="center">
-    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/1amSimp1e/1amSimp1e/544749532955a2438af7a7934a17731aa0ea1b43/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" width="90%" src="https://raw.githubusercontent.com/1amSimp1e/1amSimp1e/544749532955a2438af7a7934a17731aa0ea1b43/github-contribution-grid-snake.svg" />
 </p>
 
 ### Languages & Tools 🧰
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,linux,git,github,neovim)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,linux,git,github,go,neovim,git,kubernetes,docker,bash,codepen,django,flask,grafana,mongodb,mysql,jenkins,postgres,postman,terraform,ansible,aws,gcp,githubactions,prometheus,	)]()
 
 ### 
 
