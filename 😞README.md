@@ -33,7 +33,10 @@
 ### Languages & Tools 🧰
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,go,neovim,git,kubernetes,docker,bash,grafana,mongodb,mysql,jenkins,postgres,postman,terraform,ansible,aws,gcp,githubactions,prometheus,	)]()
+[![My Skills](https://skillicons.dev/icons?i=,linux,git,github,go,vim,git,kubernetes,docker
+,bash,grafana,mongodb,mysql,jenkins,postgres,postman,terraform
+,ansible,aws,gcp,githubactions,prometheus
+,	)]()
 
 ### 
 
