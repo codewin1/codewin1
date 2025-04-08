@@ -7,9 +7,9 @@
       <b>
         Hello There
       <br>
-        I'm Edwin and/or codewin1, a linux system admin and also practicing Devops ; I like alot of stuff ,just depends on what topic you bring up 😂
+        I'm Edwin and/or codewin1 currently a Linux sys admin and a Devops practitioner; I like alot all, just depends on what topic you bring up 😂
         <br>
-        I’m currently learning golang and looking to collaborate on any projects.
+        Also learning golang and  looking to collaborate on opensource  projects.
         <br>
        <b> My LinkedIn </b>:: https://www.linkedin.com/in/murimiedwin/
       </b>
@@ -31,8 +31,7 @@
 ### Languages & Tools 🧰
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,go,vim,git,kubernetes,docker,bash,grafana,mongodb,mysql,jenkins,postgres,postman,terraform,ansible,aws,gcp,githubactions,prometheus
-,	)]()
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,go,neovim,git,kubernetes,docker,bash,grafana,mongodb,mysql,jenkins,postgres,postman,terraform,ansible,aws,gcp,githubactions,prometheus,	)]()
 
 ### 
 
