@@ -7,7 +7,9 @@
       <b>
         Hello There
       <br>
-        I'm Edwin and/or codewin1 currently a Linux sys admin and a Devops practitioner; I like alot all, just depends on what topic you bring up 😂
+       <h1> I'm Edwin</h1>
+      <br>
+        and/or codewin1 currently a Linux sys admin , aiming for a devops or cloud roles; wanna do something together hit me up 😂
         <br>
         Also learning golang and  looking to collaborate on opensource  projects.
         <br>
