@@ -10,8 +10,7 @@
         Hello There
       <br>
         I'm Edwin
-
-    currently a Linux sys admin , aiming for a devops or cloud roles;wanna do something together hit me up 😂
+        currently a Linux sys admin , aiming for a devops or cloud roles;wanna do something together hit me up 😂
         <br>
         Also learning golang and  looking to collaborate on opensource  projects.
         <br>
