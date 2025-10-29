@@ -24,8 +24,8 @@
       <br>
       <b>
          ~ edwin ~
-      </b>   
-    s</samp>
+      </b>
+    </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 <br>
