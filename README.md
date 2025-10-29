@@ -14,7 +14,7 @@
         <br>
         Also learning golang and  looking to collaborate on opensource  projects.
         <br>
-       <b> My LinkedIn </b>:: https://www.linkedin.com/in/murimiedwin/
+       <b> My LinkedIn </b>:: https://www.linkedin.com/in/edwinmurimi/
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&
@@ -24,7 +24,8 @@
       <br>
       <b>
          ~ edwin ~
-      </b>    </samp>
+      </b>   
+    s</samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 <br>
@@ -36,7 +37,7 @@
 
 ### Languages & Tools 🧰
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,go,vim,kubernetes,docker,bash,grafana,mongodb,mysql,jenkins,postgres,postman,terraform,ansible,aws,gcp,githubactions,prometheus&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,python,javascript,go,kubernetes,docker,bash,mongodb,mysql,postgres,postman,terraform,ansible&perline=10)](https://skillicons.dev)
 
 ###
 
@@ -46,24 +47,10 @@
   </summary>
 
   <!-- Github Trophy -->
-  <div align="center">
-  <table>
-  <tr>
-
-  <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://streak-stats.demolab.com?user=codewin1&theme=nord&hide_border=true&border_radius=20&background=20212C"></a></td>
-  </tr>
-  </table>
-  </div>
+  ![GitHub Trophy](https://streak-stats.demolab.com?user=codewin1&theme=nord&hide_border=true&border_radius=20&background=20212C)
 
   <!-- Github Stats -->
-  <div align="center">
-  <table>
-  <tr>
-  <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codewin1&count_private=true&show_icons=true&border_radius=20&include_all_commits=true&line_height=21&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/></a></td>
-  <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewin1&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/></a></td>
-  </tr>
-  </table>
-  </div>
+  ![codewin's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewin1&show_icons=true&theme=tokyonight&commits_year=2025)
 
   </details>
   </div>
