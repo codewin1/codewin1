@@ -46,6 +46,8 @@
 <!-- Github Trophy -->
   ![GitHub Trophy](https://streak-stats.demolab.com?user=codewin1&theme=nord&hide_border=true&border_radius=20&background=20212C)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=codewin1&theme=gruvbox)](https://github.com/codewin1/github-profile-trophy)
+
 <!--<details>
 
 <summary><samp><b>&#9776; See more details</b></samp></summary>
